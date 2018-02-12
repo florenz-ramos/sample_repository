@@ -1,0 +1,10 @@
+c:\users\florenz\documents\visual studio 2012\Projects\Florenz_Ramos_BSCS3B_Assignment\Florenz_Ramos_BSCS3B_Assignment\bin\Debug\Florenz_Ramos_BSCS3B_Assignment.exe.config
+c:\users\florenz\documents\visual studio 2012\Projects\Florenz_Ramos_BSCS3B_Assignment\Florenz_Ramos_BSCS3B_Assignment\bin\Debug\Florenz_Ramos_BSCS3B_Assignment.exe
+c:\users\florenz\documents\visual studio 2012\Projects\Florenz_Ramos_BSCS3B_Assignment\Florenz_Ramos_BSCS3B_Assignment\bin\Debug\Florenz_Ramos_BSCS3B_Assignment.pdb
+c:\users\florenz\documents\visual studio 2012\Projects\Florenz_Ramos_BSCS3B_Assignment\Florenz_Ramos_BSCS3B_Assignment\obj\Debug\Florenz_Ramos_BSCS3B_Assignment.csprojResolveAssemblyReference.cache
+c:\users\florenz\documents\visual studio 2012\Projects\Florenz_Ramos_BSCS3B_Assignment\Florenz_Ramos_BSCS3B_Assignment\obj\Debug\Florenz_Ramos_BSCS3B_Assignment.Form1.resources
+c:\users\florenz\documents\visual studio 2012\Projects\Florenz_Ramos_BSCS3B_Assignment\Florenz_Ramos_BSCS3B_Assignment\obj\Debug\Florenz_Ramos_BSCS3B_Assignment.Properties.Resources.resources
+c:\users\florenz\documents\visual studio 2012\Projects\Florenz_Ramos_BSCS3B_Assignment\Florenz_Ramos_BSCS3B_Assignment\obj\Debug\Florenz_Ramos_BSCS3B_Assignment.csproj.GenerateResource.Cache
+c:\users\florenz\documents\visual studio 2012\Projects\Florenz_Ramos_BSCS3B_Assignment\Florenz_Ramos_BSCS3B_Assignment\obj\Debug\Florenz_Ramos_BSCS3B_Assignment.exe
+c:\users\florenz\documents\visual studio 2012\Projects\Florenz_Ramos_BSCS3B_Assignment\Florenz_Ramos_BSCS3B_Assignment\obj\Debug\Florenz_Ramos_BSCS3B_Assignment.pdb
+C:\Users\florenz\documents\visual studio 2012\Projects\Florenz_Ramos_BSCS3B_Assignment\Florenz_Ramos_BSCS3B_Assignment\obj\Debug\Florenz_Ramos_BSCS3B_Assignment.Form2.resources
